@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ImOrangeBlob
+- 🌱 I’m currently learning Love2D
+- 💞️ I’m looking to collaborate on creating a card game
+- 📫 discord: Orange_Blob
+- ⚡ Fun fact: I once ate a 50 cent coin
